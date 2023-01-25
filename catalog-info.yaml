@@ -1,0 +1,12 @@
+# BEGIN TERRAFORM MANAGED BLOCK
+"apiVersion": "backstage.io/v1alpha1"
+"kind": "Location"
+"metadata":
+  "annotations":
+    "github.com/project-slug": "LiveRamp/temporal-helm-charts"
+    "github.com/team-slug": "LiveRamp/security"
+  "description": "Temporal Helm charts"
+  "name": "temporal-helm-charts"
+  "tags":
+  - "internal-facing"
+# END TERRAFORM MANAGED BLOCK  
