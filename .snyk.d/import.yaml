@@ -1,5 +1,7 @@
+# BEGIN TERRAFORM MANAGED BLOCK
 "branches":
 - "liveramp"
 - "upstream"
 "orgName": "connectivity"
 "schema": 2
+# END TERRAFORM MANAGED BLOCK  
