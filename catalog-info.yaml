@@ -10,3 +10,7 @@
   "tags":
   - "internal-facing"
 # END TERRAFORM MANAGED BLOCK  
+"spec":
+  type: url
+  targets:
+    - https://github.com/LiveRamp/select-tv-segmentation-fe/blob/hackathon-service-catalog-metadata/catalog-info.yaml
