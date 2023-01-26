@@ -8,6 +8,7 @@
   "description": "Temporal Helm charts"
   "name": "temporal-helm-charts"
   "tags":
+  - "liveramp-oss"
   - "internal-facing"
 "spec": {}
 # END TERRAFORM MANAGED BLOCK  
