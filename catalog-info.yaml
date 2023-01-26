@@ -9,4 +9,5 @@
   "name": "temporal-helm-charts"
   "tags":
   - "internal-facing"
+"spec": {}
 # END TERRAFORM MANAGED BLOCK  
